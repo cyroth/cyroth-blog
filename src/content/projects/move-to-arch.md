@@ -1,8 +1,9 @@
 ---
-title: "Desktop new OS"
-description: "Moving to Arch Linux"
+title: Desktop new OS
+description: Moving to Arch Linux
 pubDate: 2025-12-24
-heroImage: "https://images.cyroth.com/arch-fastfind.png"
+heroImage: https://images.cyroth.com/arch-fastfind.png
+lastUpdated: 2026-05-09
 ---
 
 After far too much time putting up with Windows just to play games, I just had enough one day and thought I'd finally give gaming on Linux a go.
@@ -13,6 +14,6 @@ KDE just because it works well and the builtin apps are good enough.
 
 Polychromatic and input-remapper are actually a pretty decent standin for Synapse. 
 
-Onedrive and Google Drive both mounted with rclone at boot as documented [here](https://cyroth.dev/guides/linux/mount-cloud-drives/)
+Onedrive and Google Drive both mounted with rclone at boot as documented [here](https://cyroth.dev/guides/linux/user-rclone-mount)
 
 While I've got VScode installed, I've been using Neovim or Antigravity for most of my coding. I know it's basically just VSCode with a Google login but it's far less annoying than Copilot. (Despite some of the questionable autocomplete stuff that Gemini decides to do)
