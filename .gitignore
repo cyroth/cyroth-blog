@@ -202,4 +202,5 @@ dist
 .astro/
 
 ### Obisdian ###
-.obsidian/
+.obsidian
+.trash
