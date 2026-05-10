@@ -2,7 +2,7 @@
 title: Old blog posts
 description: A collection of old blog posts from my previous blogging platforms.
 pubDate: 2012-06-10
-heroImage: "https://images.cyroth.com/blog-placeholder-5.jpg"
+heroImage: https://images.cyroth.com/blog/old_posts.png
 ---
 
 ### A get fit guide courtesy of Lifehacker

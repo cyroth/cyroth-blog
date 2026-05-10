@@ -1,7 +1,7 @@
 ---
-title: 
-description: 
+title: {{title}}
+description: {{title}}
 pubDate: {{date}}
 lastUpdated: {{date}}
-heroImage: 
+heroImage: https://images.cyroth.com/blog-placeholder-2.jpg
 ---

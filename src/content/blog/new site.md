@@ -1,11 +1,11 @@
 ---
-title: "New site"
-description: "Building a new site in 2025"
+title: New site
+description: Building a new site in 2025
 pubDate: 2025-10-16
-heroImage: 'https://images.cyroth.com/blog-placeholder-4.jpg'
+heroImage: https://images.cyroth.com/blog/Gemini_Generated_Image_oc5l30oc5l30oc5l.png
 ---
 
-Set up a new site for 2025 using Astro and Starlight.
+Set up a new site for 2025 using Astro blog.
 
 
 Looking forward to sharing more content here soon!

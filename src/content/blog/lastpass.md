@@ -1,8 +1,8 @@
 ---
-title: "Password maintenance"
-description: "Password maintenance post Heartbleed"
+title: Password maintenance
+description: Password maintenance post Heartbleed
 pubDate: 2014-04-23
-heroImage: "https://images.cyroth.com/blog-placeholder-3.jpg"
+heroImage: https://images.cyroth.com/blog/heartbleed.png
 ---
 
 **Password maintenance post Heartbleed**

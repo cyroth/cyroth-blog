@@ -2,7 +2,7 @@
 title: Desura client autologin fix
 description: Desura client autologin fix
 pubDate: 2014-04-23
-heroImage: 'https://images.cyroth.com/blog-placeholder-2.jpg'
+heroImage: https://images.cyroth.com/blog/desura_autologin.png
 ---
 If you update your Desura password and find that the client is not logging in on startup, try right clicking the icon in the task tray and exiting it. Log in again and your password should be saved.
 
