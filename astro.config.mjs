@@ -8,9 +8,5 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   site: "https://cyroth.com",
   integrations: [mdx(), sitemap()],
-  adapter: cloudflare({
-    platformProxy: {
-      enabled: true,
-    },
-  }),
+  adapter: cloudflare(),
 });
