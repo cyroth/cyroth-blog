@@ -3,12 +3,6 @@
 	"compatibility_flags": [
 		"global_fetch_strictly_public"
 	],
-	"kv_namespaces": [
-		{
-			"binding": "KV_BINDING",
-			"id": "33ea48daf74c4bdeb40ddc15abd4e342"
-		}
-	],
 	"name": "cyroth-blog",
 	"main": "@astrojs/cloudflare/entrypoints/server",
 	"assets": {
